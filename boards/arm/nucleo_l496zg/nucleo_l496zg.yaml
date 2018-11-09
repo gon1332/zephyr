@@ -7,3 +7,5 @@ toolchain:
   - gnuarmemb
 ram: 320
 flash: 1024
+supported:
+  - gpio
