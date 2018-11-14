@@ -128,3 +128,48 @@ arduino_serial: &lpuart1 {};
 &rtc {
 	status = "ok";
 };
+
+&timers1 {
+	status = "ok";
+
+	pwm {
+		status = "ok";
+	};
+};
+
+&timers2 {
+	status = "ok";
+
+	pwm {
+		status = "ok";
+	};
+};
+
+&timers4 {
+	status = "ok";
+
+	pwm {
+		status = "ok";
+	};
+};
+
+&timers15 {
+	status = "ok";
+
+	pwm {
+		status = "ok";
+	};
+};
+
+&i2c1 {
+	status = "ok";
+	clock-frequency = <I2C_BITRATE_FAST>;
+};
+
+&spi1 {
+	status = "ok";
+};
+
+&rtc {
+	status = "ok";
+};
