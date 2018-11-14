@@ -152,11 +152,14 @@ Default Zephyr Peripheral Mapping:
 - PWM_1_CH2: PE11
 - PWM_1_CH3: PE13
 - PWM_2_CH1: PA0
+<<<<<<< HEAD
 - I2C_1_SCL: PB8
 - I2C_1_SDA: PB7
 - SPI_1_SCK: PA5
 - SPI_1_MISO: PA6
 - SPI_1_MOSI: PA7
+=======
+>>>>>>> boards: nucleo_l496zg: Add pwm mapping
 - USER_PB : PC13
 - LD1 : PC7
 - LD2 : PB7

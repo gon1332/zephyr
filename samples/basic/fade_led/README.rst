@@ -33,7 +33,8 @@ green, blue) connected to the Nucleo's PWM.
 Hexiwear K64
 ============
 No special board setup is necessary because there is an on-board RGB LED
-connected to the K64 PWM.
+connected to the K64 PWM and three on-board leds (red, green, blue) connected
+to the Nucleo's PWM.
 
 nrf52840_pca10056
 =================

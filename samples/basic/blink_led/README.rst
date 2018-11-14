@@ -25,6 +25,7 @@ Nucleo_F103RB
 =============
 Connect PWM1(PA8) to LED
 
+<<<<<<< HEAD
 Nucleo_L496ZG
 =============
 No special board setup is necessary because there is an on-board RGB LED
@@ -33,6 +34,10 @@ to the Nucleo's PWM.
 
 Hexiwear K64
 ============
+=======
+Hexiwear K64, Nucleo_L496ZG
+===========================
+>>>>>>> boards: nucleo_l496zg: Add pwm mapping
 No special board setup is necessary because there is an on-board RGB LED
 connected to the K64 PWM and three on-board leds (red, green, blue) connected
 to the Nucleo's PWM.
