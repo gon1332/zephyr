@@ -1,6 +1,7 @@
 /*
  * Copyright (c) 2016 Open-RnD Sp. z o.o.
  * Copyright (c) 2016 BayLibre, SAS
+ * Copyright (c) 2018 Centaur Analytics, Inc
  *
  * SPDX-License-Identifier: Apache-2.0
  */

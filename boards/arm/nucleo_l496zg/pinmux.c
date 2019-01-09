@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018 Ioannis Konstantelias <ikonstadel@gmail.com>
+ * Copyright (c) 2018 Centaur Analytics, Inc
  *
  * SPDX-License-Identifier: Apache-2.0
  */
