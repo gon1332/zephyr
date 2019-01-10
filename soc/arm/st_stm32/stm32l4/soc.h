@@ -30,6 +30,10 @@
  */
 #include <kernel_includes.h>
 
+#ifdef CONFIG_SYS_POWER_MANAGEMENT
+#include <soc_power.h>
+#endif
+
 #define GPIO_REG_SIZE         0x400
 /* base address for where GPIO registers start */
 #define GPIO_PORTS_BASE       (GPIOA_BASE)
